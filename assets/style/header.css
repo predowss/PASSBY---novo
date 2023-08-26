@@ -32,6 +32,11 @@ body{
     font-size: 30px;
 }
 
+.logoHeader a{
+    text-decoration: none;
+    color: #000;
+}
+
 .navigationHeader{
     gap: 3em;
     z-index: 2;
