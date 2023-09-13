@@ -12,6 +12,11 @@ body{
     color: #000;
 }
 
+	
+body{ 
+    overflow-x: hidden; 
+}
+
 .header,
 .navigationHeader{
     display: flex;
